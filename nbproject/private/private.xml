@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PRJ301/DemoFuncionSWP/web/login.jsp</file>
+            <file>file:/D:/PRJ301/DemoFuncionSWP/src/java/AccountController.java</file>
+            <file>file:/D:/PRJ301/DemoFuncionSWP/web/main.jsp</file>
+            <file>file:/D:/PRJ301/DemoFuncionSWP/src/java/DAO/Login.java</file>
+            <file>file:/D:/PRJ301/DemoFuncionSWP/web/WEB-INF/web.xml</file>
+            <file>file:/D:/PRJ301/DemoFuncionSWP/src/java/DAO/GetSetAccount.java</file>
+            <file>file:/D:/PRJ301/DemoFuncionSWP/web/index.html</file>
+            <file>file:/D:/PRJ301/DemoFuncionSWP/src/java/context/DBContext1.java</file>
+            <file>file:/D:/PRJ301/DemoFuncionSWP/web/register.jsp</file>
+            <file>file:/D:/PRJ301/DemoFuncionSWP/src/java/context/DBContext.java</file>
+            <file>file:/D:/PRJ301/DemoFuncionSWP/src/java/register.java</file>
+            <file>file:/D:/PRJ301/DemoFuncionSWP/src/java/model/Account.java</file>
+        </group>
+    </open-files>
+</project-private>
